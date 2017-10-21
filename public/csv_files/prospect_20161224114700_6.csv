@@ -1,0 +1,6 @@
+Reference;Date;"Type de prospect";Profession;Civilité;Nom;Prenom;Adresse;"Code postal";Ville;Telephone;E-mail
+0000041;2016/12/02;"Assurance Moto";Salarié;Monsieur;rr;rr;jjj;92000;NANTERRE;0999999999;iii@iii.fr
+0000042;2016/12/07;"Assurance Moto";Salarié;Monsieur;Delpech;Antoine;"38 rue Perseval";51100;REIMS;0643116342;1delpech.antoine@gmail.com
+0000078;2016/12/13;"Assurance Habitation";Fonctionnaire;Monsieur;fgg;leo;"2 France";11300;Gaja-et-Villedieu;0642489601;hutt@yopmail.com
+0000049;2016/11/22;"Assurance Santé";Salarié;Monsieur;Mamadou;Sako;"76 AV";91000;EVRY;0167676434;sako.mamadou@bitze.fr
+0000078;2016/12/13;"Assurance Habitation";Fonctionnaire;Monsieur;fgg;leo;"2 France";11300;Gaja-et-Villedieu;0642489601;hutt@yopmail.com
